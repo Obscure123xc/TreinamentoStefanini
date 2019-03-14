@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+C:\temp\stefanini-treinamento\ws-eclipse-treinamento-stefanini\treinamento\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+53258046.index
+2586179204.index

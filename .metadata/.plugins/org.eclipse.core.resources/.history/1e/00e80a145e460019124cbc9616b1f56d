@@ -1,0 +1,15 @@
+package application;
+
+import model.entities.Cachorro;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Cachorro pingo = new Cachorro("Pingo", 5);
+		Cachorro shrek = new Cachorro("Shrek", 5);
+		Cachorro apolo = new Cachorro("Apolo", 5);
+
+	}
+
+}
